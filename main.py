@@ -1,1 +1,3 @@
-print("this is working")
+import pygame
+
+print("this is the code")
